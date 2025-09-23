@@ -6,3 +6,11 @@
   box-sizing: border-box;
   font-family: "Poppins";
 }
+
+:root {
+  --main-bg-: white;
+  --secondary-bg: #202124;
+  --text-color: #373643;
+  --item-color: #9388fa;
+  --item-hover: #7447e1;
+}
